@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/my-app)/static/css/main.9d7b824a.css",
+    "main.js": "/my-app)/static/js/main.b4676dab.js",
+    "static/js/787.13ca45e4.chunk.js": "/my-app)/static/js/787.13ca45e4.chunk.js",
+    "static/media/Eastilo-8MlyM.woff": "/my-app)/static/media/Eastilo-8MlyM.eff4d5576a50a33d8fd3.woff",
+    "index.html": "/my-app)/index.html",
+    "main.9d7b824a.css.map": "/my-app)/static/css/main.9d7b824a.css.map",
+    "main.b4676dab.js.map": "/my-app)/static/js/main.b4676dab.js.map",
+    "787.13ca45e4.chunk.js.map": "/my-app)/static/js/787.13ca45e4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d7b824a.css",
+    "static/js/main.b4676dab.js"
+  ]
+}
